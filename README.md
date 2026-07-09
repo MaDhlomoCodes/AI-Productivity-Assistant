@@ -2,8 +2,7 @@
 
 # The Civic Catalyst Network
 
-An AI-powered workplace productivity assistant built for South African civic tech NGOs. Submitted for the CAPACITI x ASA Online AI Project.
-
+An AI-powered workplace productivity assistant built for South African civic tech NGOs. 
 **Repository:** [AI-Productivity-Assistant](https://github.com/MaDhlomoCodes/AI-Productivity-Assistant)
 
 ## Project Overview
